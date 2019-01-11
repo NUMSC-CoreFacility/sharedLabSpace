@@ -23,30 +23,29 @@ description: Introductory information on the shared lab space and the equipment 
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+avatar: "/img/NU_MSC_Web.png"
 
 # List of links in the navigation bar
 navbar-links:
-  Home: ""
-  Resources:
-    - Getting started: "getstarted"
-    - Featured users: "featured-users"
-    - Project page: "https://github.com/daattali/beautiful-jekyll#readme"
-  About me: "http://deanattali.com"
-  Support me: "http://deanattali.com/aboutme/#feed-meeee"
-
+  Equipment:
+    - Agilent TapeStation: "tapestation"
+    - BluePippen: "bluepippen"
+    - Covaris Sonicator: "sonicator"
+    - OpenTrons: "opentrons"
+    - Synergy HTX (‘Plate reader’): "plate-reader"
+  Use log: "use-logs"
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Dean Attali
-  email: "daattali@gmail.com"
-  facebook: daattali
-  github: daattali
-  twitter: daattali
-  linkedin: "pub/dean-attali/8/946/143"
-  stackoverflow: "users/3943160/daattali"
+  name: Northeastern University Marine Science Center
+  email: ""
+  facebook: ""
+  github: ""
+  twitter: ""
+  linkedin: ""
+  stackoverflow: ""
  
 # Select which links to show in the footer
 footer-links-active:
@@ -74,7 +73,7 @@ url-pretty: "deanattali.com/beautiful-jekyll"  # eg. "deanattali.com/beautiful-j
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-59820529-1"
+google_analytics: ""
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
