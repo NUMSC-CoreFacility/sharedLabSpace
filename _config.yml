@@ -8,8 +8,8 @@
 #baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-url: "https://numsc-corefacility.github.io/sharedLabSpace"
-baseurl: ""
+url: "https://numsc-corefacility.github.io"
+baseurl: "/sharedLabSpace"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
