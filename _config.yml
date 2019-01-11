@@ -8,8 +8,8 @@
 #baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-url: "https://numsc-corefacility.github.io"
-baseurl: "/sharedLabSpace"
+url: "https://numsc-corefacility.github.io/sharedLabSpace"
+baseurl: ""
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
@@ -39,7 +39,7 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Northeastern University Marine Science Center
+  name: NUMSC - Shared Lab Space
   email: ""
   facebook: ""
   github: ""
@@ -50,22 +50,22 @@ author:
 # Select which links to show in the footer
 footer-links-active:
   rss: false
-  facebook: true
-  email: true
-  twitter: true
-  github: true
+  facebook: false
+  email: false
+  twitter: false
+  github: false
   linkedin: false
   stackoverflow: false
   
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
   google: false
-  linkedin: true
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "deanattali.com/beautiful-jekyll"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: ""  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 
