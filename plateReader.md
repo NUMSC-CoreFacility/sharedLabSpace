@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Synergy HTX ('Plate Reader')
+bigimg: /img/plate-reader.jpg
 ---
 # Introduction
 
