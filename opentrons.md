@@ -1,6 +1,7 @@
 ---
 layout: page
 title: OpenTrons Pippetting Robot
+bigimg: /img/opentrons.jpg
 ---
 # Introduction
 
