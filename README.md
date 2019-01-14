@@ -1,3 +1,7 @@
+# Editing this site
+
+If you a member of the NU Marine science center and you are looking to edit this site, please go make your edits to the gh-pages branch. Your changes to the master branch will not be propogated to the website if you don't. 
+
 # Beautiful Jekyll
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/daattali/20)
