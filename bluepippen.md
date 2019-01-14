@@ -1,6 +1,7 @@
 ---
 layout: page
 title: BluePippen
+bigimg: /img/blue-pippen.jpg
 ---
 # Introduction
 
