@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Covaris Sonicator
+bigimg: /img/sonicator.jpg
 ---
 # Introduction
 
