@@ -25,6 +25,10 @@ description: Introductory information on the shared lab space and the equipment 
 # Remove this parameter if you don't want an image in the navbar
 avatar: "/img/NU_MSC_Web.png"
 
+# If you want to have an image logo in the top-left corner instead of the title text,
+# then specify the following parameter
+title-img: "/img/NU_MSC_Web.png"
+
 # List of links in the navigation bar
 navbar-links:
   Equipment:
