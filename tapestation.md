@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Agilent TapeStation
+bigimg: /img/tapestation.jpg
 ---
 # Introduction
 
