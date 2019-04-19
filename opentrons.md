@@ -5,7 +5,7 @@ bigimg: /img/opentrons.jpg
 ---
 # Introduction
 
-## Purposes: XXX
+## Purposes: automating pipet protocol
 
 ## Protocols: XXX
 
