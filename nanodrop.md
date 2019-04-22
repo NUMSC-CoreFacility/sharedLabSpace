@@ -8,7 +8,7 @@ bigimg: /img/tapestation.jpg
 ## Purposes:
 Quantify DNA concentration and purity
 
-## Location: OGL Gel-Doc hallway
+## Location: OGL Gel-Doc Hallway
 
 ## Protocols: XXX
 
