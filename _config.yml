@@ -35,7 +35,9 @@ navbar-links:
     - Agilent TapeStation: "tapestation"
     - BluePippen: "bluepippen"
     - Covaris Sonicator: "sonicator"
+    - Gel Doc: "geldoc"
     - OpenTrons: "opentrons"
+    - Speed Vac: "speedvac"
     - Synergy HTX (‘Plate reader’): "plate-reader"
   Use log: "use-logs"
 # --- Footer options --- #
