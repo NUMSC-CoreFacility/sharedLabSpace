@@ -7,9 +7,11 @@ bigimg: /img/blue-pippen.jpg
 
 ## Purposes: XXX
 
+## Location: Shared Molecular Lab
+
 ## Protocols: XXX
 
 ## Reagents and Supplies: XXX
 
-## Point of contact: 
+## Point of contact 
 - Joe Vineis (Bowen Lab)
