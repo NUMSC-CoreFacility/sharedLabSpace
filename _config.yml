@@ -36,6 +36,7 @@ navbar-links:
     - BluePippen: "bluepippen"
     - Covaris Sonicator: "sonicator"
     - Gel Doc: "geldoc"
+    - Nanodrop: "nanodrop"
     - OpenTrons: "opentrons"
     - Speed Vac: "speedvac"
     - Synergy HTX (‘Plate reader’): "plate-reader"
