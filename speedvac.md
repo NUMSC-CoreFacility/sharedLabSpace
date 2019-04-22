@@ -3,9 +3,11 @@ layout: page
 title: Thermo Scientific Speed Vac
 bigimg: /img/tapestation.jpg
 ---
-# Introduction: This is a speed vac. Use it to dry down DNA samples.
+# Introduction
 
-## Purposes: XXX
+## Purposes: Typically used it to dry down DNA samples
+
+## Location: OGL main lab
 
 ## Protocols: XXX
 
