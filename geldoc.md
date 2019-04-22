@@ -6,7 +6,9 @@ bigimg: /img/tapestation.jpg
 # Introduction
 
 ## Purposes: 
-Image electrophresis gels; gel-red only no Ethydium Bromide, please; **Gloves always requried**
+Image electrophresis gels
+Gel-red only no Ethydium Bromide, please
+**Gloves always requried**
 
 ## Location: OGL Gel-Doc Hallway
 
