@@ -5,7 +5,8 @@ bigimg: /img/tapestation.jpg
 ---
 # Introduction
 
-## Purposes: Typically used it to dry down DNA samples
+## Purposes:
+Typically used to dry down DNA samples
 
 ## Location: OGL main lab
 
@@ -13,5 +14,7 @@ bigimg: /img/tapestation.jpg
 
 ## Reagents and Supplies: XXX
 
-## Point of contact: Rosie Falco (OGL) and Hannah Appiah-Madson (OGL)
+## Point of contact: 
+- Rosie Falco (OGL)
+- Hannah Appiah-Madson (OGL)
 
