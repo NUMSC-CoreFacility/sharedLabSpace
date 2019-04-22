@@ -11,4 +11,5 @@ bigimg: /img/blue-pippen.jpg
 
 ## Reagents and Supplies: XXX
 
-## Point of contact: Joe Vineis
+## Point of contact: 
+- Joe Vineis (Bowen Lab)
