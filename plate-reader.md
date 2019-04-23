@@ -7,6 +7,8 @@ bigimg: /img/plate-reader.jpg
 
 ## Purposes: XXX
 
+## Location: Shared Molecular Lab
+
 ## Protocols: XXX
 
 ## Reagents and Supplies: XXX
