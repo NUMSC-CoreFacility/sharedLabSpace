@@ -39,6 +39,7 @@ navbar-links:
     - Gel Doc: "geldoc"
     - Liquid Nitrogen: "liquidnitrogen"
     - MilliQ Water: "milliQ"
+    - MinIon: "minIon"
     - Nanodrop: "nanodrop"
     - OpenTrons: "opentrons"
     - Speed Vac: "speedvac"
