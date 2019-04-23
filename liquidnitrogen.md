@@ -6,8 +6,8 @@ bigimg: /img/tapestation.jpg
 # Introduction
 
 ## Purposes:
-Sample transport, nucleotide extractions, field sampling
-**REQUIRES ONLINES TRAINING BEFORE USE**
+- Sample transport, nucleotide extractions, field sampling
+- **REQUIRES ADDITIONAL ONLINE TRAINING BEFORE USE**
 
 ## Location: OGL Freezer Room
 
