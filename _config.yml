@@ -38,6 +38,7 @@ navbar-links:
     - Covaris Sonicator: "sonicator"
     - Gel Doc: "geldoc"
     - Liquid Nitrogen: "liquidnitrogen"
+    - MilliQ Water: "milliQ"
     - Nanodrop: "nanodrop"
     - OpenTrons: "opentrons"
     - Speed Vac: "speedvac"
