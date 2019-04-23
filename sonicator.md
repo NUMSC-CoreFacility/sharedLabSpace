@@ -7,6 +7,8 @@ bigimg: /img/sonicator.jpg
 
 ## Purposes: XXX
 
+## Location: Shared Molecular Lab
+
 ## Protocols: XXX
 
 ## Reagents and Supplies: XXX
