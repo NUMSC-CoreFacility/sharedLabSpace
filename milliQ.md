@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Thermo Scientific Speed Vac
+title: MilliQ Water
 bigimg: /img/tapestation.jpg
 ---
 # Introduction
