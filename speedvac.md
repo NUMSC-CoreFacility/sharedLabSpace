@@ -6,7 +6,7 @@ bigimg: /img/tapestation.jpg
 # Introduction
 
 ## Purposes:
-Typically used to dry down DNA samples
+- Typically used to dry down DNA samples
 
 ## Location: OGL main lab
 
