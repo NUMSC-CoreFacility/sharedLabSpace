@@ -6,7 +6,7 @@ bigimg: /img/tapestation.jpg
 # Introduction
 
 ## Purposes:
-Quantify DNA concentration and purity
+- Quantifying DNA concentration and purity
 
 ## Location: OGL Gel-Doc Hallway
 
