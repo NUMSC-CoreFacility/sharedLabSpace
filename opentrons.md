@@ -5,7 +5,10 @@ bigimg: /img/opentrons.jpg
 ---
 # Introduction
 
-## Purposes: automating pipet protocol
+## Purposes: 
+- Automated pipetting
+
+## Location: Shared Molecular Lab
 
 ## Protocols: XXX
 
