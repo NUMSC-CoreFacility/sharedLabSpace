@@ -33,6 +33,7 @@ title-img: "/img/NU_MSC_Web.png"
 navbar-links:
   Equipment:
     - Agilent TapeStation: "tapestation"
+    - Autoclave: "autoclave"
     - BluePippen: "bluepippen"
     - Covaris Sonicator: "sonicator"
     - Gel Doc: "geldoc"
