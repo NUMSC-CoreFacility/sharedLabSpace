@@ -5,10 +5,17 @@ bigimg: /img/tapestation.jpg
 ---
 # Introduction
 
-## Purposes: XXX
+## Purposes:
+- Quantification of DNA or RNA
+- Requires laptop that lives in the Bowen Lab
+
+## Location: Shared Molecular Lab
 
 ## Protocols: XXX
 
 ## Reagents and Supplies: XXX
 
-## Point of contact: XXX
+## Point of contact:
+- Annie Murphy (Bowen Lab)
+- Rosie Falco (OGL)
+- Hannah Appiah-Madson (OGL)
