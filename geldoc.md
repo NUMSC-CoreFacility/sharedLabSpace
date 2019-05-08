@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bio-Rad Gel Doc
-bigimg: /img/tapestation.jpg
+bigimg: /img/GelDoc.jpg
 ---
 # Introduction
 
