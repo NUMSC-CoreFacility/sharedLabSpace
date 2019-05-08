@@ -15,8 +15,6 @@ bigimg: /img/Autoclave.jpg
 
 ## Protocols: XXX
 
-## Reagents and Supplies: XXX
-
 ## Point of contact: 
 - Rosie Falco (OGL)
 - Hannah Appiah-Madson (OGL)
