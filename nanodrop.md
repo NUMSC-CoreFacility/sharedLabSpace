@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Nanodrop 1000
-bigimg: /img/tapestation.jpg
+bigimg: /img/NanoDrop.jpg
 ---
 # Introduction
 
