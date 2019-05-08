@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Autoclave
-bigimg: /img/tapestation.jpg
+bigimg: /img/Autoclave.jpg
 ---
 # Introduction
 
