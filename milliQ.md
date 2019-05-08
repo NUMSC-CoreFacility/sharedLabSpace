@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MilliQ Water
-bigimg: /img/tapestation.jpg
+bigimg: /img/MillQ.jpg
 ---
 # Introduction
 
