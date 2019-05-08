@@ -10,7 +10,7 @@ bigimg: /img/NanoDrop.jpg
 
 ## Location: OGL Gel-Doc Hallway
 
-## Protocols: Nanodrop_Protocol_20Sept2018.docx
+## Protocols: XXX
 
 ## Point of contact: 
 - Rosie Falco (OGL)
