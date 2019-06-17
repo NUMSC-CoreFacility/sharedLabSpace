@@ -13,7 +13,7 @@ bigimg: /img/Autoclave.jpg
 
 ## Location: OGL Autoclave Room
 
-## Protocols: protocols/Autoclave Protocol.pdf
+## Protocols: /protocols/Autoclave Protocol.pdf
 
 ## Point of contact: 
 - Rosie Falco (OGL)
