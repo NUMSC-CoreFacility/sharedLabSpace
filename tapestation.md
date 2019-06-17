@@ -15,6 +15,11 @@ bigimg: /img/tapestation.jpg
 
 [This is a link](https://raw.githubusercontent.com/NUMSC-CoreFacility/sharedLabSpace/gh-pages/img/opentrons.jpg)
 
+<object data="https://bweedop.github.io/assets/pdf/weedop_keegan_cv.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://bweedop.github.io/assets/pdf/weedop_keegan_cv.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://bweedop.github.io/assets/pdf/weedop_keegan_cv.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 ## Reagents and Supplies: XXX
 
 ## Point of contact:
