@@ -20,6 +20,9 @@ bigimg: /img/tapestation.jpg
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="file:///Users/stein/Downloads/2200TapeStation_Guide.pdf">Download PDF</a>.</p>
     </embed>
 </object>
+
+protocols/2200TapeStation_Guide.pdf
+
 ## Reagents and Supplies: XXX
 
 ## Point of contact:
