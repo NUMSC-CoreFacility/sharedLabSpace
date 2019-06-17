@@ -13,7 +13,7 @@ bigimg: /img/tapestation.jpg
 
 ## Protocols: 
 
-[This is a link](https://bweedop.github.io)
+[This is a link](https://raw.githubusercontent.com/NUMSC-CoreFacility/sharedLabSpace/gh-pages/img/opentrons.jpg)
 
 ## Reagents and Supplies: XXX
 
