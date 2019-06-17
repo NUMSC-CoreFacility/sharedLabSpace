@@ -10,7 +10,7 @@ bigimg: /img/tapestation.jpg
 
 ## Location: OGL Main Lab
 
-## Protocols: XXX
+## Protocols: /protocols/2200TapeStation_Guide.pdf
 
 ## Reagents and Supplies: XXX
 
