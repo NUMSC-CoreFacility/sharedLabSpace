@@ -13,9 +13,9 @@ bigimg: /img/Autoclave.jpg
 
 ## Location: OGL Autoclave Room
 
-## Protocols:
+## Protocols: 
 
-[Nanodrop Protocol](https://raw.githubusercontent.com/NUMSC-CoreFacility/sharedLabSpace/gh-pages/protocols/Autoclave Protocol.pdf)
+[TapeStation Protocol](https://raw.githubusercontent.com/NUMSC-CoreFacility/sharedLabSpace/gh-pages/protocols/2200TapeStation_Guide.pdf)
 
 ## Point of contact: 
 - Rosie Falco (OGL)
