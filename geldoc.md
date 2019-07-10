@@ -12,7 +12,9 @@ bigimg: /img/GelDoc.jpg
 
 ## Location: OGL Gel-Doc Hallway
 
-## Protocols: XXX
+## Protocols: 
+
+[Gel Doc Protocol](https://raw.githubusercontent.com/NUMSC-CoreFacility/sharedLabSpace/gh-pages/protocols/Gel_Doc_Protocol.pdf)
 
 ## Reagents and Supplies: XXX
 
