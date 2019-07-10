@@ -10,9 +10,7 @@ bigimg: /img/tapestation.jpg
 
 ## Location: OGL Main Lab
 
-## Protocols: /protocols/2200TapeStation_Guide.pdf
-
-## Reagents and Supplies: XXX
+## Protocols: XXX
 
 ## Point of contact: 
 - Rosie Falco (OGL)
