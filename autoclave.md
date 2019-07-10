@@ -13,7 +13,8 @@ bigimg: /img/Autoclave.jpg
 
 ## Location: OGL Autoclave Room
 
-## Protocols: /protocols/Autoclave Protocol.pdf
+## Protocols:
+[Autoclave Protocol](https://raw.githubusercontent.com/NUMSC-CoreFacility/sharedLabSpace/gh-pages/protocols/Autoclave Protocol.pdf)
 
 ## Point of contact: 
 - Rosie Falco (OGL)
