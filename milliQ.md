@@ -11,9 +11,10 @@ bigimg: /img/MillQ.jpg
 
 ## Location: OGL Main Lab
 
-## Protocols: XXX
-
-## Reagents and Supplies: XXX
+## Protocols:
+- Put on gloves
+- Dispense water
+- Don't flood OGL
 
 ## Point of contact: 
 - Rosie Falco (OGL)
