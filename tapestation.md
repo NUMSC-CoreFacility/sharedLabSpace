@@ -13,7 +13,7 @@ bigimg: /img/tapestation.jpg
 
 ## Protocols: 
 
-[TapeStation Protocol](protocols/2200TapeStation_Guide.pdf "2200 Tapestation Guide")
+[TapeStation Protocol](https://raw.githubusercontent.com/NUMSC-CoreFacility/sharedLabSpace/protocols/2200TapeStation_Guide.pdf)
 
 ## Reagents and Supplies: XXX
 
