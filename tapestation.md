@@ -13,11 +13,11 @@ bigimg: /img/tapestation.jpg
 
 ## Protocols: 
 
-[This is a link](https://raw.githubusercontent.com/NUMSC-CoreFacility/sharedLabSpace/gh-pages/protocols/2200Tapestaion_Guide.pdf)
+[This is a link](https://raw.githubusercontent.com/NUMSC-CoreFacility/sharedLabSpace/gh-pages/protocols/2200TapeStation_Guide.pdf)
 
-<object data="https://numsc-corefacility.github.io/sharedLabSpace/protocols/2200Tapestaion_Guide.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://numsc-corefacility.github.io/sharedLabSpace/protocols/2200Tapestaion_Guide.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://raw.githubusercontent.com/NUMSC-CoreFacility/sharedLabSpace/gh-pages/protocols/2200Tapestaion_Guide.pdf">Download PDF</a>.</p>
+<object data="https://numsc-corefacility.github.io/sharedLabSpace/protocols/2200TapeStation_Guide.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://numsc-corefacility.github.io/sharedLabSpace/protocols/2200TapeStation_Guide.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://raw.githubusercontent.com/NUMSC-CoreFacility/sharedLabSpace/gh-pages/protocols/2200TapeStation_Guide.pdf">Download PDF</a>.</p>
     </object>
 
 ## Reagents and Supplies: XXX
