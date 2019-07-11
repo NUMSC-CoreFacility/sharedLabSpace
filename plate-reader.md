@@ -5,13 +5,18 @@ bigimg: /img/plate-reader.jpg
 ---
 # Introduction
 
-## Purposes: XXX
+## Purposes: 
+1) Can be used for multiple types of large scale DNA quantification including; a fluorometric based approach using the picoGreen (reagents needed) or an absorbance based approach the Take3 insert (similar to a nanodrop; not reagents needed).
 
 ## Location: Shared Molecular Lab
 
-## Protocols: XXX
+## Protocols: 
 
-## Reagents and Supplies: XXX
+* [Picogreen dsDNA Assay Quantification Assay Protocol](https://github.com/NUMSC-CoreFacility/sharedLabSpace/blob/gh-pages/picoGreenAssaydsDNA.md)
+
+## Reagents and Supplies: 
+
+* PicoGreen Kits - [Link](https://www.fishersci.com/shop/products/quant-it-picogreen-dsdna/p7589) - Sold by multiple vendors.
 
 ## Point of contact: 
 - Alan Downey-Wall (Lotterhos Lab)
