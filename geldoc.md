@@ -21,10 +21,6 @@ bigimg: /img/GelDoc.jpg
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://raw.githubusercontent.com/NUMSC-CoreFacility/sharedLabSpace/gh-pages/protocols/Gel_Doc_Protocol.pdf">Download PDF</a>.</p>
     </object>
     
-[Gel Doc Protocol](https://raw.githubusercontent.com/NUMSC-CoreFacility/sharedLabSpace/gh-pages/protocols/Gel_Doc_Protocol.pdf)
-
-## Reagents and Supplies: XXX
-
 ## Point of contact: 
 - Rosie Falco (OGL)
 - Hannah Appiah-Madson (OGL)
