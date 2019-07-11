@@ -15,7 +15,7 @@ bigimg: /img/Autoclave.jpg
 
 ## Protocols: 
 
-[This is a link](https://raw.githubusercontent.com/NUMSC-CoreFacility/sharedLabSpace/gh-pages/protocols/AutoclaveProtocol_11July2019.pdf)
+[Download Protocol](https://raw.githubusercontent.com/NUMSC-CoreFacility/sharedLabSpace/gh-pages/protocols/AutoclaveProtocol_11July2019.pdf)
 
 <object data="https://numsc-corefacility.github.io/sharedLabSpace/protocols/AutoclaveProtocol_11July2019.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://numsc-corefacility.github.io/sharedLabSpace/protocols/AutoclaveProtocol_11July2019.pdf">
