@@ -15,11 +15,9 @@ bigimg: /img/tapestation.jpg
 
 [This is a link](https://raw.githubusercontent.com/NUMSC-CoreFacility/sharedLabSpace/gh-pages/protocols/2200Tapestaion_Guide.pdf)
 
-<object data="protocols/2200Tapestaion_Guide.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="protocols/2200Tapestaion_Guide.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://raw.githubusercontent.com/NUMSC-CoreFacility/sharedLabSpace/gh-pages/protocols/2200Tapestaion_Guide.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+<object data="https://bweedop.github.io/assets/pdf/weedop_keegan_cv.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://bweedop.github.io/assets/pdf/weedop_keegan_cv.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://bweedop.github.io/assets/pdf/weedop_keegan_cv.pdf">Download PDF</a>.</p>
 
 ## Reagents and Supplies: XXX
 
