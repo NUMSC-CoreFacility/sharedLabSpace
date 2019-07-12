@@ -12,7 +12,7 @@ bigimg: /img/plate-reader.jpg
 
 ## Protocols: 
 
-* [Picogreen dsDNA Assay Quantification Assay Protocol](https://github.com/NUMSC-CoreFacility/sharedLabSpace/blob/gh-pages/picoGreenAssaydsDNA.md)
+* [Picogreen dsDNA Assay Quantification Assay Protocol](https://numsc-corefacility.github.io/sharedLabSpace/picoGreenAssaydsDNA.md)
 
 ## Reagents and Supplies: 
 
