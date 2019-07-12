@@ -6,7 +6,7 @@ bigimg: /img/plate-reader.jpg
 # Introduction
 
 ## Purposes: 
-1) Can be used for multiple types of large scale DNA quantification including; a fluorometric based approach using the picoGreen (reagents needed) or an absorbance based approach the Take3 insert (similar to a nanodrop; not reagents needed).
+1) Can be used for multiple types of large scale DNA quantification including, a fluorometric based approach using a picoGreen assay (reagents needed) or an absorbance based approach with the Take3 insert (similar to a nanodrop; not reagents needed).
 
 ## Location: Shared Molecular Lab
 
