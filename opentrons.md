@@ -12,7 +12,5 @@ bigimg: /img/opentrons.jpg
 
 ## Protocols: XXX
 
-## Reagents and Supplies: XXX
-
 ## Point of contact: 
  - Sara Schaal
