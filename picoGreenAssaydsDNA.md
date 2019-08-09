@@ -74,12 +74,14 @@ Standards are created by before a serial dilution using a provided ladder. They 
 
 | Standard_ID | Conc. (ng/ml) | Ladder Dilution (ug/ml) | Ladder Volume (ul) | 1X TE Volume (ul) | Diluted PicoGreen Volume (ul) |
 |:-----------:|:-------------:|:-----------------------:|:------------------:|:-----------------:|:-----------------------------:|
-| 1   | 250   | Ladder Dilution 1 (2ug/ml)    | 12.5 | 37.5  | 50    |
-| 2   |	50    |	Ladder Dilution 1 (2ug/ml)    |  5   | 45    | 50    |
-| 3   |	10    |	Ladder Dilution 2 (0.2ug/ml)  |  5   | 45    | 50    |
-| 4   |  4    | Ladder Dilution 2 (0.2ug/ml)  |  2   | 48    | 50    |
-| 5   |  1    | Ladder Dilution 3 (0.02ug/ml) |  5   | 45    | 50    |
-| 6   | Blank | Blank                         | -    | 50    | 50    | 
+| 1   | 1000   | Ladder Dilution 1 (2ug/ml)    | 25 | 25  | 50    |
+| 2   |	500    |	Ladder Dilution 1 (2ug/ml)   |  12.5   | 37.5    | 50    |
+| 3   |	100    |	Ladder Dilution 1 (2ug/ml) |  5   | 45    | 50    |
+| 4   | 25     | Ladder Dilution 2 (0.2ug/ml)  |  12.5  | 37.5    | 50    |
+| 5   | 10     | Ladder Dilution 2 (0.2ug/ml)  |  2.5   | 47.5    | 50    |
+| 6   | 5      | Ladder Dilution 3 (0.02ug/ml)  |  12.5   | 37.5    | 50    |
+| 7   | 1      | Ladder Dilution 3 (0.02ug/ml) |  2.5   | 47.5    | 50    |
+| 8   | Blank  | Blank                         | -    | 50    | 50    | 
 
 **Sample Reaction**
 
