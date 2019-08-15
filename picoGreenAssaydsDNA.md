@@ -56,7 +56,7 @@ Amount of **Mol. Grade Water (ul)** = 20X TE volume (ul) x 19
 **picoGreen Dilution Calculation**
 
 Calculation:
-(50uL x NS + 450uL x NP)*1.1 = Total volume of *diluted picoGreen* (ul) (with 10% buffer)
+(50uL x NS + 400uL x NP)*1.1 = Total volume of *diluted picoGreen* (ul) (with 10% buffer)
 * NS = Number of Samples
 * NP = Number of Plates
 
