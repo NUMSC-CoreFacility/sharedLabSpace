@@ -50,7 +50,7 @@ Calculation:
 
 Reagents needed:
 
-Amount of **20X TE volume (ul)** = Total volume 1X TE / 20 =  
+Amount of **20X TE volume (ul)** = Total volume 1X TE / 20  
 Amount of **Mol. Grade Water (ul)** = 20X TE volume (ul) x 19 
 
 **picoGreen Dilution Calculation**
@@ -62,7 +62,7 @@ Calculation:
 
 Reagents needed:
 
-Amount of **Stock picoGreen (ul)** = Total volume diluted picogreen (ul) / 200ul
+Amount of **Stock picoGreen (ul)** = Total volume diluted picogreen (ul) / 200ul 
 Amount of **1X TE (ul)** = Stock picoGreen (ul) * 199ul
 
 ### Step 2 - Creating Dilution stocks for standards 
