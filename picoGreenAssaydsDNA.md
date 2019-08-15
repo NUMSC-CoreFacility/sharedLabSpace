@@ -43,7 +43,8 @@ Both 20X TE and the picoGreen reagent will need to be diluted before there use. 
 
 **1X TE Stock Calculation**
 
-Determine amount of 1X TE you will need: 
+Determine amount of 1X TE you will need:
+
 1.1*(50uL 1X TE x Number of samples + (271uL x Number of plates)) = 1X TE Total volume (ul)
 * Total volume 1X TE / 20 = **20X TE volume (ul)** 
 * 20X TE volume (ul) * 19 = **Mol. Grade Water (ul)**
@@ -51,6 +52,7 @@ Determine amount of 1X TE you will need:
 **picoGreen Dilution Calculation**
 
 Determine amount of diluted picoGreen you need:
+
 1.1*(50uL diluted picoGreen x Number of samples + (300uL x Number of plates)) = picoGreen Diluted Total Volume (ul)
 * Total volume diluted picogreen / 200 = **Stock picoGreen (ul)**
 * picoGreen Stock (ul) * 199 = **Mol. Grade Water (ul)**
