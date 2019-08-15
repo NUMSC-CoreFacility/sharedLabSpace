@@ -51,7 +51,7 @@ Both 20X TE and the picoGreen reagent will need to be diluted before there use. 
 
 1.1*(50uL diluted picoGreen XXX x Number of samples + (300uL x Number of plates))/200 = Volume 20X TE
 
-* Mutiple this value by 199 to calculat the volume of 1X TE to add.
+* Mutiple this value by 199 to calculate the volume of 1X TE to add.
 
 ### Step 2 - Creating Dilution stocks for standards 
 
@@ -59,7 +59,7 @@ Standards are created by before a serial dilution using a provided ladder. They 
 
 | Dilution Created       | Dilution Used |  Volume | 1X TE | Total |
 |:----------------------:|:-------------:|:-------:|:-----:|:-----:|
-| Dilution 1 (2ug/ml)    | Stock ladder  | 1uL     | 49uL  | 50uL  |
+| Dilution 1 (2ug/ml)    | Stock ladder (100ug/ml)  | 1uL     | 49uL  | 50uL  |
 | Dilution 2 (0.2ug/ml)  | Dilution 1    | 5uL     | 45uL  | 50uL  |
 | Dilution 3 (0.02ug/ml) | Dilution 2    | 5uL     | 45uL  | 50uL  |
 
