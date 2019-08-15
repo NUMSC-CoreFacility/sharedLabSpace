@@ -41,17 +41,19 @@ The picoGreen Quantification Assay provides an easy and relatively inexpensive w
 
 Both 20X TE and the picoGreen reagent will need to be diluted before there use. The 20X TE is created **first** (you'll need to do the picoGreen dilution), and you will generally need a sterile 50mL vial for your dilution (this will depend on the number of samples you are running). The 1X TE is created using mol. grade grade water using the formula below. Next, the picoGreen reagent diltution is performed using the 1X TE dilution you just created with the formula below. The 1.1 in the formula is used to add a 10% solution buffer to account for pipetting error. 
 
-**1X TE Stock**
+**1X TE Stock Calculation**
 
-1.1*(50uL 1X TE x Number of samples + (271uL x Number of plates))/20 = Volume 20X TE
+Determine amount of 1X TE you will need: 
+1.1*(50uL 1X TE x Number of samples + (271uL x Number of plates)) = 1X TE Total volume (ul)
+* Total volume 1X TE / 20 = **20X TE volume (ul)** 
+* 20X TE volume (ul) * 19 = **Mol. Grade Water (ul)**
 
-* Multiple this value by 19 to calculate the volume of water to add to adjust to 1X.
+**picoGreen Dilution Calculation**
 
-**picoGreen Dilution**
-
-1.1*(50uL diluted picoGreen XXX x Number of samples + (300uL x Number of plates))/200 = Volume 20X TE
-
-* Mutiple this value by 199 to calculate the volume of 1X TE to add.
+Determine amount of diluted picoGreen you need:
+1.1*(50uL diluted picoGreen x Number of samples + (300uL x Number of plates)) = picoGreen Diluted Total Volume (ul)
+* Total volume diluted picogreen / 200 = **Stock picoGreen (ul)**
+* picoGreen Stock (ul) * 199 = **Mol. Grade Water (ul)**
 
 ### Step 2 - Creating Dilution stocks for standards 
 
