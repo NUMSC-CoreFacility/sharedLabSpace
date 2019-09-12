@@ -20,7 +20,11 @@ bigimg: /img/tapestation.jpg
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://raw.githubusercontent.com/NUMSC-CoreFacility/sharedLabSpace/gh-pages/protocols/2200TapeStation_Guide.pdf">Download PDF</a>.</p>
     </object>
 
-## Reagents and Supplies: XXX
+## Reagents and Supplies:
+- [DNA ScreenTapes[ (https://www.agilent.com/en/product/automated-electrophoresis/tapestation-systems/tapestation-dna-screentape-reagents/dna-screentape-analysis-228260)
+- Genomic DNA ScreenTapes
+- High Sensitivity DNA ScreenTapes
+- RNA ScreenTapes
 
 ## Point of contact:
 - Annie Murphy (Bowen Lab)
