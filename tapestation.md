@@ -21,7 +21,7 @@ bigimg: /img/tapestation.jpg
     </object>
 
 ## Reagents and Supplies:
-- [DNA ScreenTapes[ (https://www.agilent.com/en/product/automated-electrophoresis/tapestation-systems/tapestation-dna-screentape-reagents/dna-screentape-analysis-228260)
+- [DNA ScreenTapes] (https://www.agilent.com/en/product/automated-electrophoresis/tapestation-systems/tapestation-dna-screentape-reagents/dna-screentape-analysis-228260)
 - Genomic DNA ScreenTapes
 - High Sensitivity DNA ScreenTapes
 - RNA ScreenTapes
