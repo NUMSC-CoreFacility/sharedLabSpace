@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Thermo Scientific Speed Vac
-bigimg: /img/tapestation.jpg
+bigimg: /img/SpeedVac.jpg
 ---
 # Introduction
 
