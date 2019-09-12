@@ -21,10 +21,12 @@ bigimg: /img/tapestation.jpg
     </object>
 
 ## Reagents and Supplies:
-- [DNA ScreenTapes] (https://www.agilent.com/en/product/automated-electrophoresis/tapestation-systems/tapestation-dna-screentape-reagents/dna-screentape-analysis-228260)
-- Genomic DNA ScreenTapes
-- High Sensitivity DNA ScreenTapes
-- RNA ScreenTapes
+- [DNA ScreenTapes](https://www.agilent.com/en/product/automated-electrophoresis/tapestation-systems/tapestation-dna-screentape-reagents/dna-screentape-analysis-228260)
+- [Genomic DNA ScreenTapes](agilent.com/en/product/automated-electrophoresis/tapestation-systems/tapestation-dna-screentape-reagents/genomic-dna-screentape-analysis-228261)
+- [High Sensitivity DNA ScreenTapes](agilent.com/en/product/automated-electrophoresis/tapestation-systems/tapestation-dna-screentape-reagents/high-sensitivity-dna-screentape-analysis-228262)
+- [RNA ScreenTapes](agilent.com/en/product/automated-electrophoresis/tapestation-systems/tapestation-rna-screentape-reagents/rna-screentape-analysis-228268)
+- [High Sensitivity RNA TapeScreens](https://www.agilent.com/en/product/automated-electrophoresis/tapestation-systems/tapestation-rna-screentape-reagents/high-sensitivity-rna-screentape-analysis-228267)
+- [Loading Tips](https://www.agilent.com/store/productDetail.jsp?catalogId=5067-5153)
 
 ## Point of contact:
 - Annie Murphy (Bowen Lab)
