@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Liquid Nitrogen
-bigimg: /img/tapestation.jpg
+bigimg: /img/LN2.jpg
 ---
 # Introduction
 
