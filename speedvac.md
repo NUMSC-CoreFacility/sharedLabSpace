@@ -6,11 +6,12 @@ bigimg: /img/SpeedVac.jpg
 # Introduction
 
 ## Purposes:
-- Typically used to dry down DNA samples
+- Centrifugal vacuum concentration system for drying low volume ethanol or isopropanolwater precipitates of DNA and RNA.
 
 ## Location: OGL Main Lab
 
-## Protocols: XXX
+## Protocols: 
+- See manual [here](https://www.marshallscientific.com/v/vspfiles/files/manuals/DNA120.pdf)
 
 ## Point of contact: 
 - Rosie Falco (OGL)
