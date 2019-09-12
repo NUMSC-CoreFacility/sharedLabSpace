@@ -13,4 +13,4 @@ bigimg: /img/opentrons.jpg
 ## Protocols: XXX
 
 ## Point of contact: 
- - Sara Schaal
+ - Sara Schaal (Lotterhos Lab)
