@@ -29,6 +29,6 @@ bigimg: /img/tapestation.jpg
 - [Loading Tips](https://www.agilent.com/store/productDetail.jsp?catalogId=5067-5153)
 
 ## Point of contact:
-- Annie Murphy (Bowen Lab)
 - Rosie Falco (OGL)
 - Hannah Appiah-Madson (OGL)
+- Sara Schaal (Lotterhos Lab)
