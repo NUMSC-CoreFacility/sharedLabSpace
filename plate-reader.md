@@ -20,4 +20,3 @@ bigimg: /img/plate-reader.jpg
 
 ## Point of contact: 
 - Alan Downey-Wall (Lotterhos Lab)
-- Annie Murphy (Bowen Lab)
