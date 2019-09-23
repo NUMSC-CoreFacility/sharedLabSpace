@@ -5,11 +5,11 @@ bigimg: /img/blue-pippen.jpg
 ---
 # Introduction
 
-## Purposes: XXX
+## Purposes: The blue pippin can be used to size select next gen libraries and high molecular weight genomic DNA
 
 ## Location: Shared Molecular Lab
 
-## Protocols: XXX
+## Protocols: 
 
 ## Reagents and Supplies: XXX
 
