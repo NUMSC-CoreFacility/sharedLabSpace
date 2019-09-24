@@ -4,15 +4,15 @@ title: Covaris Sonicator
 bigimg: /img/sonicator.jpg
 ---
 # Introduction
-
-## Purposes: XXX
+  - We have an [ME220](https://covaris.com/products/afa-ultrasonication/me220-focused-ultrasonicator/), which is used primarily to shear genomic DNA, but there are many alternative uses
+## Purposes: Shearing Genomic DNA
 
 ## Location: Shared Molecular Lab
 
-## Protocols: XXX
+## Protocols: You can find the basic protocol [here](https://covaris.com/resources/protocols/dna-shearing-protocols/)
 
-## Reagents and Supplies: XXX
+## Reagents and Supplies: User supplied
 
 ## Point of contact:
-- Joe Vineis (Bowen Lab)
+- Joe Vineis (Bowen Lab) - jvineis@gmail.com
 - Sara Schaal (Lotterhos Lab)
