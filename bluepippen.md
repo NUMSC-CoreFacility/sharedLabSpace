@@ -10,8 +10,9 @@ bigimg: /img/blue-pippen.jpg
 ## Location: Shared Molecular Lab
 
 ## Protocols: 
+[Download Protocol](https://raw.githubusercontent.com/NUMSC-CoreFacility/sharedLabSpace/gh-pages/protocols/BluePippin-Operations-Manual-460013-Rev-D.pdf)
 
-## Reagents and Supplies: XXX
+## Reagents and Supplies: User Supplied
 
 ## Point of contact 
-- Joe Vineis (Bowen Lab)
+- Joe Vineis (Bowen Lab) jvineis@gmail.com
