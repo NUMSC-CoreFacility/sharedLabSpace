@@ -5,14 +5,14 @@ bigimg: /img/tapestation.jpg
 ---
 # Introduction
 
-## Purposes:
+## Purposes: Long read sequencing   
 
-## Location: 
+## Location: Bowen Lab
 
-## Protocols: XXX
+## Protocols: Discuss with Joe about how to obtain the proper protocols
 
-## Reagents and Supplies: XXX
+## Reagents and Supplies: User Supplied
 
 ## Point of contact: 
-- Joe Vineis (Bowen Lab)
+- Joe Vineis (Bowen Lab) - jvineis@gmail.com
 
