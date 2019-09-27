@@ -19,4 +19,5 @@ bigimg: /img/plate-reader.jpg
 * PicoGreen Kits - [Link](https://www.fishersci.com/shop/products/quant-it-picogreen-dsdna/p7589) - Sold by multiple vendors.
 
 ## Point of contact: 
+- Sara Schaal (Lotterhos Lab)
 - Alan Downey-Wall (Lotterhos Lab)
