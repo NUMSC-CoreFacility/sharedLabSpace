@@ -31,6 +31,7 @@ title-img: "/img/NU_MSC_Web.png"
 
 # List of links in the navigation bar
 navbar-links:
+  Facilities: "Facilities"
   Equipment:
     - Agilent TapeStation: "tapestation"
     - Autoclave: "autoclave"
