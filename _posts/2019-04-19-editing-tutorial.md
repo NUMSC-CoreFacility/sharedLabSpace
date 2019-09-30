@@ -3,6 +3,7 @@
 In order to edit the information page for the equipment you have been assigned, you will need to...
   1. Have a Github account
   2. Be added as a collaborator on this repository
+  3. Go to the site [here](https://github.com/NUMSC-CoreFacility/sharedLabSpace/tree/gh-pages)
   
 After getting through those first two requirements, you need to navigate through the repository in a specific way to make your edits. First, change (or verify) the branch that you are working on is the "gh-pages" branch. If you do not know how to do this, see the gif below
 
