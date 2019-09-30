@@ -1,4 +1,9 @@
 
+---
+layout: page
+title: Facilities
+---
+
 ## When using this equipment, please cite:
 
 *If you publish a study in which some way used the equipment listed below, please add this to your Acknowledgements:*
