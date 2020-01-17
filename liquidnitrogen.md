@@ -9,6 +9,7 @@ OGL has updated our liquid nitrogen use policy. In order to ensure the security 
 
 If you plan to use a large volume of LN2 or will need it multiple times in a week, please let us know a week in advance. This gives us time to order an additional tank, as necessary.
 
+To help defray costs, MSC community members will be asked to replace a 230 liter tank after each fifth 5-liter dewar used. 
 
 ## Purposes:
 - Sample transport, nucleotide extractions, field sampling
