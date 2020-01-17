@@ -7,7 +7,7 @@ bigimg: /img/LN2.jpg
 
 OGL has updated our liquid nitrogen use policy. In order to ensure the security of the OGL collection, only OGL staff may dispense LN2. We are happy to dispense it for you! If you need LN2, please make your request in person or via email at least 24 hours in advance. We will dispense it for you in 5-liter increments. 
 
-If you plan to use a large volume of LN2 or will need it multiple times in a week, please let us know a week in advance. This gives us time to order an additional tank if necessary.
+If you plan to use a large volume of LN2 or will need it multiple times in a week, please let us know a week in advance. This gives us time to order an additional tank, as necessary.
 
 
 ## Purposes:
