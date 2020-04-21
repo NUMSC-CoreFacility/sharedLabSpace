@@ -7,7 +7,7 @@ title: Facilities
 
 *If you publish a study in which some way used the equipment listed below, please add this to your Acknowledgements:*
 
-Resources purchased with funds from the NSF FMSL program (DBI 1722553, to Northeastern University) were used to generate data for this manuscript.
+Resources purchased with funds from the NSF FSML program (DBI 1722553, to Northeastern University) were used to generate data for this manuscript.
 
 ## Facilities description
 
