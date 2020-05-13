@@ -11,6 +11,15 @@ OGL has updated our liquid nitrogen use policy. To get LN2 during the COVID-19 s
 - Sample transport, nucleotide extractions, field sampling
 - **REQUIRES ADDITIONAL ONLINE TRAINING BEFORE USE**
 
+## LN2 Use During COVID-19:
+
+[Download Full Policy](https://raw.githubusercontent.com/NUMSC-CoreFacility/sharedLabSpace/gh-pages/protocols/LN2UseduringCOVID.pdf)
+
+<object data="https://numsc-corefacility.github.io/sharedLabSpace/protocols/LN2UseduringCOVID.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://numsc-corefacility.github.io/sharedLabSpace/protocols/LN2UseduringCOVID.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://raw.githubusercontent.com/NUMSC-CoreFacility/sharedLabSpace/gh-pages/protocols/LN2UseduringCOVID.pdf">Download PDF</a>.</p>
+    </object>
+
 ## OGL LN2 Policy:
 
 [Download Full Policy](https://raw.githubusercontent.com/NUMSC-CoreFacility/sharedLabSpace/gh-pages/protocols/OGL_LN2_Policy_20200511.pdf)
