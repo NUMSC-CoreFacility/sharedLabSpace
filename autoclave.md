@@ -5,6 +5,8 @@ bigimg: /img/Autoclave.jpg
 ---
 # Introduction
 
+[Edit this page](https://github.com/NUMSC-CoreFacility/sharedLabSpace/blob/gh-pages/autoclave.md)
+
 ## Purposes:
 - Sterilize materials
 - **REQUIRES ONLINE AND IN PERSON TRAINING**
