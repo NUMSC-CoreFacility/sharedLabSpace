@@ -3,6 +3,8 @@ layout: page
 title: Best Practices
 ---
 
+[Edit this page](https://github.com/NUMSC-CoreFacility/sharedLabSpace/edit/gh-pages/bestpractices.md)
+
 ## Best practices for laboratory quality control
 We recommend following the PCR Applications Manual by Roche for preventing contamination in the PCR laboratory and cultivating habits that prevent cross-contamination. Use physically separate areas and designated pipettes are used for sample preparation, preparation of reagents, DNA extraction, RNA extraction, PCR amplification, and post-PCR analysis. Use filtered tips and controls for all reactions. Make sure pipettes and equipment is calibrated annually.
 
