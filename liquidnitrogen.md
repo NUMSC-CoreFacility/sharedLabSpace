@@ -5,6 +5,8 @@ bigimg: /img/LN2.jpg
 ---
 # Introduction
 
+[Edit this page](https://github.com/NUMSC-CoreFacility/sharedLabSpace/blob/gh-pages/liquidnitrogen.md)
+
 OGL has updated our liquid nitrogen use policy. To get LN2 during the COVID-19 shut down, contact Rosie Falco (r.falco@northeastern.edu) and Hannah Appiah-Madson (h.appiah-madson@northeastern.edu) at least 2 days before you need it! Do not dispense LN2 if you have not recieved approval from Rosie and Hannah!  
 
 ## Purposes:
