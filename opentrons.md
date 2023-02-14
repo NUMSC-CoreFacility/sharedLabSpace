@@ -5,6 +5,8 @@ bigimg: /img/opentrons.jpg
 ---
 # Introduction
 
+[Edit this page](https://github.com/NUMSC-CoreFacility/sharedLabSpace/blob/gh-pages/opentrons.md)
+
 ## Purposes: 
 - Automated pipetting
 - **USE REQUIRES ADDITIONAL TRAINING**
