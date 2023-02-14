@@ -5,6 +5,8 @@ bigimg: /img/GelDoc.jpg
 ---
 # Introduction
 
+[Edit this page](https://github.com/NUMSC-CoreFacility/sharedLabSpace/blob/gh-pages/geldoc.md)
+
 ## Purposes: 
 - Image electrophresis gels
 - No Ethydium Bromide, please
