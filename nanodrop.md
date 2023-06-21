@@ -20,6 +20,6 @@ bigimg: /img/NanoDrop.jpg
     </object>
 
 ## Point of contact: 
-- Rosie Falco (OGL)
+- Rosie Falco Poulin (OGL)
 - Hannah Appiah-Madson (OGL)
 
