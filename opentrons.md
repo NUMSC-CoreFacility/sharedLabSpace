@@ -17,4 +17,4 @@ bigimg: /img/opentrons.jpg
 - Protocols vary based on use
 
 ## Point of contact: 
- - Sara Schaal (Lotterhos Lab)
+ - TBD
