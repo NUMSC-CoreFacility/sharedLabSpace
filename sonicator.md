@@ -14,5 +14,4 @@ bigimg: /img/sonicator.jpg
 ## Reagents and Supplies: User supplied
 
 ## Point of contact:
-- Joe Vineis (Bowen Lab) - jvineis@gmail.com
-- Sara Schaal (Lotterhos Lab)
+- TBD
