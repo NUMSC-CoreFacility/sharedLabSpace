@@ -16,6 +16,6 @@ bigimg: /img/SpeedVac.jpg
 - See manual [here](https://www.marshallscientific.com/v/vspfiles/files/manuals/DNA120.pdf)
 
 ## Point of contact: 
-- Rosie Falco (OGL)
+- Rosie Falco Poulin (OGL)
 - Hannah Appiah-Madson (OGL)
 
