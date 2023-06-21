@@ -11,7 +11,7 @@ bigimg: /img/Autoclave.jpg
 - Sterilize materials
 - **REQUIRES ONLINE AND IN PERSON TRAINING**
 - **SERIOUSLY, DO NOT USE WITHOUT TRAINING**
-- **CONTACT ROSIE FALCO FOR TRAINING**
+- **CONTACT ROSIE FALCO POULIN FOR TRAINING**
 
 ## Location: OGL Autoclave Room
 
@@ -25,7 +25,7 @@ bigimg: /img/Autoclave.jpg
     </object>
 
 ## Point of contact: 
-- Rosie Falco (OGL)
+- Rosie Falco Poulin (OGL)
 - Hannah Appiah-Madson (OGL)
 
 
