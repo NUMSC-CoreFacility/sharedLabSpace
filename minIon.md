@@ -14,5 +14,5 @@ bigimg: /img/tapestation.jpg
 ## Reagents and Supplies: User Supplied
 
 ## Point of contact: 
-- Joe Vineis (Bowen Lab) - jvineis@gmail.com
+- TBD
 
