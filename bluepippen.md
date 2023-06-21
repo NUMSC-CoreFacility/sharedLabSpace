@@ -15,4 +15,4 @@ bigimg: /img/blue-pippen.jpg
 ## Reagents and Supplies: User Supplied
 
 ## Point of contact 
-- Joe Vineis (Bowen Lab) jvineis@gmail.com
+- TBD
