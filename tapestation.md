@@ -7,7 +7,8 @@ bigimg: /img/tapestation.jpg
 
 ## Purposes:
 - Quantification of DNA or RNA
-- Requires laptop that lives in the Bowen Lab
+- Requires a PC laptop
+- Note: TapeStation 2200 is no longer supported by Agilent Tech Support
 
 ## Location: Shared Molecular Lab
 
@@ -29,6 +30,5 @@ bigimg: /img/tapestation.jpg
 - [Loading Tips](https://www.agilent.com/store/productDetail.jsp?catalogId=5067-5153)
 
 ## Point of contact:
-- Rosie Falco (OGL)
+- Rosie Falco Poulin (OGL)
 - Hannah Appiah-Madson (OGL)
-- Sara Schaal (Lotterhos Lab)
