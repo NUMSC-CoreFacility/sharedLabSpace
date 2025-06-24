@@ -44,6 +44,7 @@ navbar-links:
     - MilliQ Water: "milliQ"
     - MinIon: "minIon"
     - Nanodrop: "nanodrop"
+    - Implen NanoPhotometer: "nanophotometer"
     - OpenTrons: "opentrons"
     - Speed Vac: "speedvac"
     - Synergy HTX (‘Plate reader’): "plate-reader"
