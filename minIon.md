@@ -5,11 +5,14 @@ bigimg: /img/tapestation.jpg
 ---
 # Introduction
 
-## Purposes: Long read sequencing   
+[Edit this page](https://github.com/NUMSC-CoreFacility/sharedLabSpace/blob/gh-pages/minIon.md)
+
+## Purposes: 
+- Long read sequencing   
 
 ## Location: Bowen Lab
 
-## Protocols: Discuss with Joe about how to obtain the proper protocols
+## Protocol: Discuss with Bowen lab about how to obtain the proper protocols
 
 ## Reagents and Supplies: User Supplied
 
