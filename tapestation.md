@@ -5,14 +5,17 @@ bigimg: /img/tapestation.jpg
 ---
 # Introduction
 
+[Edit this page](https://github.com/NUMSC-CoreFacility/sharedLabSpace/blob/gh-pages/tapestation.md)
+
 ## Purposes:
 - Quantification of DNA or RNA
 - Requires a PC laptop
 - Note: TapeStation 2200 is no longer supported by Agilent Tech Support
+- Additional note: A new tapestation will be set up in the near future
 
 ## Location: Shared Molecular Lab
 
-## Protocols: 
+## Protocol: 
 
 [Download Protocol](https://raw.githubusercontent.com/NUMSC-CoreFacility/sharedLabSpace/gh-pages/protocols/2200TapeStation_Guide.pdf)
 
