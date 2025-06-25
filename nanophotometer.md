@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Implen NanoPhotometer N120
-bigimg: /img/N120_left.jpg
+bigimg: /img/WhatsApp Image 2025-06-25 at 08.56.50.jpeg
 ---
 # Introduction
 
