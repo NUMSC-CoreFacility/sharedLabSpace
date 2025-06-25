@@ -5,13 +5,15 @@ bigimg: /img/MillQ.jpg
 ---
 # Introduction
 
+[Edit this page](https://github.com/NUMSC-CoreFacility/sharedLabSpace/blob/gh-pages/milliQ.md)
+
 ## Purposes:
 - The best water
 - Please use gloves when using
 
 ## Location: OGL Main Lab
 
-## Protocols:
+## Protocol:
 - Put on gloves
 - Dispense water
 - Don't flood OGL
