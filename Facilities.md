@@ -31,6 +31,7 @@ The Ocean Genome Legacy Center is a biorepository located at NUMSC and houses se
 * BioRad Gel Doc XR+: for photodocumentation.
 * Milli-Q® Type 1 Ultrapure Water System: for ultrapure water.
 * Nanodrop 1000: for quantification and purity analysis of genomic materials.
+* Implen NanoPhotometer N120: for quantification and purity analysis of genomic materials.
 * Liquid Nitrogen: for flash freezing.
 
 ### Gel electrophoresis room:
