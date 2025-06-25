@@ -14,7 +14,7 @@ bigimg: /img/GelDoc.jpg
 
 ## Location: OGL Gel-Doc Hallway
 
-## Protocols: 
+## Protocol: 
 
 [Download Protocol](https://raw.githubusercontent.com/NUMSC-CoreFacility/sharedLabSpace/gh-pages/protocols/Gel_Doc_Protocol.pdf)
 
@@ -24,5 +24,5 @@ bigimg: /img/GelDoc.jpg
     </object>
     
 ## Point of contact: 
-- Rosie Falco (OGL)
+- Rosie Falco Poulin (OGL)
 - Hannah Appiah-Madson (OGL)
