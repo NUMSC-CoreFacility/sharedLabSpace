@@ -15,7 +15,7 @@ bigimg: /img/Autoclave.jpg
 
 ## Location: OGL Autoclave Room
 
-## Protocols: 
+## Protocol: 
 
 [Download Protocol](https://raw.githubusercontent.com/NUMSC-CoreFacility/sharedLabSpace/gh-pages/protocols/AutoclaveProtocol_11July2019.pdf)
 
