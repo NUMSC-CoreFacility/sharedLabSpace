@@ -5,12 +5,14 @@ bigimg: /img/NanoDrop.jpg
 ---
 # Introduction
 
+[Edit this page](https://github.com/NUMSC-CoreFacility/sharedLabSpace/blob/gh-pages/nanodrop.md)
+
 ## Purposes:
 - Quantifying DNA concentration and purity
 
 ## Location: OGL Gel-Doc Hallway
 
-## Protocols:
+## Protocol:
 
 [Download Protocol](https://raw.githubusercontent.com/NUMSC-CoreFacility/sharedLabSpace/gh-pages/protocols/Nanodrop_Protocol_20Sept2018.pdf)
 
