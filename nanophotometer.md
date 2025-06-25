@@ -5,6 +5,8 @@ bigimg: /img/WhatsApp Image 2025-06-25 at 08.56.50.jpeg
 ---
 # Introduction
 
+[Edit this page](https://github.com/NUMSC-CoreFacility/sharedLabSpace/blob/gh-pages/nanophotometer.md)
+
 ## Purposes:
 - Quantifying DNA concentration and purity
 
